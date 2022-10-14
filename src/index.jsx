@@ -30,7 +30,7 @@ const Post = (props) => (
             <div className="btns">
                 <div className="like"><img src={like} alt="" width={18} /><span>Like</span></div>
                 <div className="comment"><img src={comment} alt="" width={18} /><span>Comment</span></div>
-                <div className="share"><img src={share} alt="" width={18} /><span>Share</span></div>
+                <div className="share"><img src={share}  /><span>Share</span></div>
             </div>
         </div>
     </div>
