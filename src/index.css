@@ -73,8 +73,13 @@ body {
   background-color: black;
   display: flex;
   justify-content: center;
+  cursor: pointer;
 }
-
+.mainDiv .postimg a{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
 .mainDiv .postimg img {
   width: 90%;
 }
